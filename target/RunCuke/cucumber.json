@@ -1,0 +1,292 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2452657900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.steUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User Should Login Successfully With Valid Credentials",
+        "description": "",
+        "id": "login-test;user-should-login-successfully-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 653332400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 66037800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11701,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on login Link",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 131460800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter username \"standard_user\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "standard_user",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterUsername(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 60279599,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter password \"secret_sauce\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "secret_sauce",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 138261100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on Login Button",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 28300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should Login successfully",
+            "match": {
+              "location": "LoginSteps.iShouldLoginSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@sanity"
+          },
+          {
+            "line": 4,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Login Test",
+    "description": "As user I want to login into sauce demo website",
+    "id": "login-test",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1301074501,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.steUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should login with valid credentials",
+        "description": "",
+        "id": "product-test;user-should-login-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 644439900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "LoginSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on login Link",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 118127500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter username \"standard_user\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "standard_user",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterUsername(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79284700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter password \"secret_sauce\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "secret_sauce",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 90608000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on Login Button",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 45281201,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I verify Products text is displayed on the products Page",
+            "match": {
+              "location": "ProductsSteps.iVerifyProductsTextIsDisplayedOnTheProductsPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 17393001,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I verify 6 products are displayed on the products Page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "6",
+                  "offset": 9
+                }
+              ],
+              "location": "ProductsSteps.iVerifyProductsAreDisplayedOnTheProductsPage(int)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@smoke"
+          },
+          {
+            "line": 3,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Product Test",
+    "description": "As user I want to login and navigate to  product page into sauce demo website",
+    "id": "product-test",
+    "keyword": "Feature",
+    "uri": "product.feature"
+  }
+]

@@ -1,0 +1,46 @@
+2023-05-15 12:05:207 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 12:05:388 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 12:05:332 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 12:05:486 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 12:05:655 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']'
+2023-05-15 12:05:184 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 12:05:352 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 12:05:275 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 12:05:458 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 12:05:657 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']'
+2023-05-15 12:05:19 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 12:05:173 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 12:05:370 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']'
+2023-05-15 12:05:211 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 12:05:392 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 12:05:564 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']'
+2023-05-15 12:05:408 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 12:05:558 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 12:05:715 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='title']'
+2023-05-15 13:05:514 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 13:05:671 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 13:05:877 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Products')]'
+2023-05-15 13:05:361 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 13:05:524 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 13:05:708 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Products')]'
+2023-05-15 14:05:589 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 14:05:720 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 14:05:852 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Products')]'
+2023-05-15 14:05:324 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 14:05:474 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 14:05:599 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Products')]'
+2023-05-15 14:05:74 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 14:05:227 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 14:05:388 INFO  ProductPage :31 - Getting Product Text Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Products')]'
+2023-05-15 14:05:582 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 14:05:686 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 14:05:659 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 14:05:782 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 15:05:392 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 15:05:518 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 15:05:599 INFO  LoginPage :43 - Clicking on Login Button[[ChromeDriver: chrome on WINDOWS (3ba6cd1a6145362f3baf588f4f0d0f3f)] -> id: login-button]
+2023-05-15 15:05:675 INFO  LoginPage :31 - Enter Username : standard_user
+2023-05-15 15:05:803 INFO  LoginPage :38 - Enter PasswordField secret_sauce
+2023-05-15 15:05:896 INFO  LoginPage :43 - Clicking on Login Button[[ChromeDriver: chrome on WINDOWS (5473dcf7265408024510e7508f63af01)] -> id: login-button]
+2023-05-15 15:05:08 INFO  ProductPage :32 - Getting Product Text [[ChromeDriver: chrome on WINDOWS (5473dcf7265408024510e7508f63af01)] -> xpath: //span[contains(text(),'Products')]]
+2023-05-15 15:05:28 INFO  ProductPage :36 - Finding Total Number Of Products6
